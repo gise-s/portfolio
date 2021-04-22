@@ -1,0 +1,59 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    color: #192A51;
+    background-color: #F5E6E8;
+    text-align: center;
+}
+
+
+
+.jumbotron {
+    position: relative;
+    box-sizing: border-box;
+    border-radius: 15px;
+    align-items: center;
+    width: fit-content;
+    text-align: center;
+    padding: 2% 30%;
+}
+
+.image{    
+    position: relative;
+    border-radius: 60%;
+    width: 250px;
+    height:250px;
+    border:5px solid #b87fe6;
+    }
+
+
+h3, h2{
+    text-decoration: wavy underline;
+}
+    
+.portfolio{
+    background-color: #967AA1;      
+    }
+
+.portfolio img{
+    width: 200px;
+    height: 150px;
+    margin: 15px 5px;
+    border-radius: 40%;
+    border: 5px solid #AAA1C8;
+}
+
+.formus{
+    text-align: left;
+    }
+
+
+.btn {
+    background-color: #967AA1;
+    border-color: #775883;
+}
+
+#datos{
+    font-family: 'Roboto', sans-serif;
+    background-color:#d0bae2 ;
+    text-decoration: underline solid;
+}
